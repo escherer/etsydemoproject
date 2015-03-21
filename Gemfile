@@ -31,6 +31,9 @@ gem 'spring',        group: :development
 # mandatory file to use with active support
 gem 'tzinfo-data'
 
+#Papler clip
+gem "paperclip", "~> 4.2"
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
