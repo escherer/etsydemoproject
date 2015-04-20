@@ -13,6 +13,8 @@ gem 'spring',        group: :development
 gem 'tzinfo-data'
 gem 'paperclip', '~> 4.2'
 gem 'devise'
+gem 'stripe'
+gem 'figaro'
 
 group :production do
   gem 'pg'
